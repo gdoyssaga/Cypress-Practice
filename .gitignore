@@ -1,0 +1,19 @@
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon
+._*
+
+# Thumbnails
+._.DS_Store
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Cypress specific files
+cypress/screenshots/
+cypress/videos/
